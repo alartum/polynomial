@@ -1,4 +1,4 @@
-greaterThan(QT_MAJOR_VERSION, 4): QT += core widgets
+QT += core widgets
 
 FORMS += \
     mainwindow.ui
