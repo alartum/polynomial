@@ -9,7 +9,7 @@ User interface is written with Qt. The program manages to factor polynomials up 
  sudo apt-get install qt5-default
 ```
 
-If you skill get an error, installation of *qt-sdk* may fix it:
+If you still receive an error, installation of *qt-sdk* may fix it:
 ``` bash
 sudo apt-get install qt-sdk
 ```
